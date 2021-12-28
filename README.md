@@ -38,6 +38,7 @@ Project to implement the Crop Recommendor System to help farmers selecting crop.
 *	Data Visualization<br />
 *	Splitting our data into Train and Test Subset<br />
 *	Model Building<br />
+*	Conclusion<br />
 
 ## Model Building 
 In this Problem Statement we have used Five differernt models respectively :
